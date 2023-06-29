@@ -22,12 +22,13 @@ Saya adalah seorang mahasiswa Teknik yang sekarang sedang memasuki semester 7. S
 <br/><br/>
 
 ### Software:
+<div id="software">
 <img align="center" alt="Photoshop" width="25px" src=".assets/photoshop.png" style="margin-right:10px;" />
 <img align="center" alt="Illustrator" width="25px" src=".assets/illustrator.png" style="margin-right:10px;" />
 <img align="center" alt="Figma" width="25px" src=".assets/figma.png" style="margin-right:10px;" />
 <img align="center" alt="Android Studio" width="25px" src=".assets/icons8-android-studio-48.png" style="margin-right:10px;" />
 <img align="center" alt="Visual Studio Code" width="25px" src=".assets/icons8-visual-studio-code-2019-48.png" style="margin-right:10px;" />
-<img align="center" alt="postman" width="22px" src=".assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" style="margin-right:10px;" />
+<img align="center" alt="postman" width="22px" src=".assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" style="margin-right:10px;" /></div>
 <br/><br/>
 
 ---
